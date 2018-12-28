@@ -1,6 +1,8 @@
 # A Photographer's dream website
 
-Welcome! This repo is a simple frontend codebase website for a photographer (feel free to repuporse it for any profession). I built it for my wife but we've decided to go in a different direction. It's not quite complete and needs a decent amount of refactoring in the main style.css file (in my opinion) but all the heavy lifting is basically finished. Feel free to customize it however you choose. 
+Welcome! 
+
+This repo is a simple frontend codebase website for a photographer (feel free to repuporse it for any profession). I built it for my wife but we've decided to go in a different direction. It's not quite complete and needs a decent amount of refactoring in the main style.css file (in my opinion) but all the heavy lifting is basically finished. Feel free to customize it however you choose. 
 
 Please note, I created a template.html file that gives you a good starting place for any new pages you'd like to build/customize.
 
