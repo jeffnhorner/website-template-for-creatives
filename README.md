@@ -26,6 +26,10 @@ git clone REPO_URL
 
 ## You're All Set!
 
-If you end up using this template to create a website and push it live, I'd love to see the final product! Feel free to DM me on Instagram or Twitter or shoot me an email. 
+If you end up using this template to create a website and push it live, I'd love to see the final product! Feel free to DM me the live link on Instagram or Twitter or shoot me an email. 
 
-# Happy Coding!
+
+## Happy Coding!
+
+
+-Jeff
