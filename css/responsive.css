@@ -1,0 +1,249 @@
+/* LARGER TABLETS - portrait & landscape */
+
+@media only screen and (max-width: 1260px) {
+
+    .navbar-default .navbar-nav>li>a {
+      margin: 0 13px;
+      font-size: 1.2rem;
+    }
+
+    #kh-logo {
+      width: 330px;
+      height: auto;
+    }
+
+    .dropdown-menu {
+      top: 48px;
+      left: 13px;
+    }
+}
+
+
+/*TABLETS*/
+
+@media only screen and (max-width: 1024px) {
+
+    .row-spacing {
+      margin-bottom: 0;
+    }
+
+    .img-spacing {
+      margin-bottom: 30px;
+    }
+
+    .view-more {
+      width: 55%;
+    }
+
+    .img-spacing {
+      margin-bottom: 0;
+    }
+
+    .img-spacing a p {
+      margin: 0;
+      padding: 30px 0;
+    }
+
+    .second-img-spacing {
+      margin: 1px 0;
+    }
+
+    .internal-img-div-spacing {
+      padding: 0;
+    }
+
+    .form-intro {
+      margin-bottom: 20px;
+    }
+
+    .form-intro p {
+      width: 93%;
+      max-width: 820px;
+      text-align: left;
+      margin: 0 auto;
+      margin-bottom: 15px;
+    }
+
+    .form-first input,
+    .form-second input,
+    .form-third input {
+      width: 90%;
+      padding: 10px 20px 10px 8px;
+      border: 1px solid #d7d7d7 !important;
+    }
+
+    .form-third select {
+      width: 90%;
+      padding: 10px 20px;
+      background: #fff !important;
+      height: 42px;
+      border: 0;
+      outline: 1px solid #CCC;
+      background-color: white;
+      color: #737373;
+      padding-left: 15px;
+    }
+
+    .form-third select option.selected {
+      position: relative;
+      left: 10px;
+    }
+
+    .form-textarea {
+      width: 90%;
+      height: 200px;
+      max-height: 500px;
+      border: 1px solid #d7d7d7 !important;
+      padding: 10px 20px 10px 8px;
+      margin-top: 10px;
+    }
+}
+
+
+/* MOBILE */
+@media only screen and (max-width: 768px) {
+
+    .navbar-default .navbar-nav>li>a {
+      margin: 0 8px;
+      font-size: 1.1rem;
+    }
+
+    nav.navbar.navbar-default.on-collapse {
+      position: relative;
+      bottom: 20px;
+    }
+
+    #homepage-kh-logo, #kh-logo {
+      display: none;
+    }
+
+    header hr {
+      margin: 0 auto;
+      position: relative;
+      bottom: 60px;
+    }
+
+    .mobile-header {
+      width: 60%;
+      margin: 0 auto;
+      padding: 20px 0;
+    }
+
+    .navbar-nav li #logo {
+      display: none;
+    }
+
+    .on-collapse {
+      background-color: #f8f8f8 !important;
+    }
+
+    .navbar-default {
+      transition: .65s ease-in-out;
+    }
+
+    .navbar-nav {
+      margin-top: 4px;
+    }
+
+    .homepage-nav .container-fluid .navbar-header {
+      height: 1px;
+      border-top: 1px solid #e7e7e7;
+    }
+
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+      border-color: transparent;
+    }
+
+    .navbar-default .navbar-nav>.open>a,
+    .navbar-default .navbar-nav>.open>a:focus,
+    .navbar-default .navbar-nav>.open>a:hover {
+      box-shadow: none;
+      background-color: #F8F8F8;
+    }
+
+    .navbar-nav {
+      display: inline-grid;
+    }
+
+    .caret {
+      position: relative;
+      bottom: 2px;
+      right: 2px;
+    }
+
+    .dropdown-menu li{
+      transition: all .2s ease-in-out;
+    }
+
+    div#bs-example-navbar-collapse-1 {
+      margin: 0 auto;
+      padding-left: 53px;
+      text-align: center;
+    }
+
+    body#about-me div#bs-example-navbar-collapse-1 {
+      padding-left: 0;
+      padding-right: 0;
+      position: relative;
+      bottom: 30px;
+    }
+
+    #mobile-logo {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 25px auto;
+    }
+
+    .top-headline {
+      text-align: center;
+      margin: 50px 0 0 0;
+    }
+
+    .top-headline p {
+      margin-bottom: 20px;
+    }
+
+    body#about-me .top-headline h1 {
+      padding-bottom: 0;
+    }
+
+    .section-top-text {
+      margin: 50px 0;
+    }
+
+    footer div {
+      display: block;
+      margin: 10px 0;
+      text-align: center;
+    }
+
+    .container {
+      padding: 0 30px;
+    }
+
+    .bucket-text {
+      font-size: 15px;
+    }
+
+    .top-headline h1 {
+      font-size: 2.2em;
+    }
+
+    .section-content h2{
+      font-size: 1.8em;
+    }
+
+    .navbar-default .navbar-nav>li>a:hover {
+      color: #262626;
+    }
+}
+
+/* Modal functionality on mobile */
+
+@media only screen and (max-width: 700px) {
+  .modal-content {
+    width: 100%;
+  }
+}
