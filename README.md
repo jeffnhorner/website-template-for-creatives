@@ -1,4 +1,4 @@
-# A Photographer's dream website
+# Minimal Website Template for Photographers 
 
 Welcome! 
 
