@@ -6,7 +6,7 @@ This repo is a simple frontend codebase website for a photographer (feel free to
 
 Please note, I created a template.html file that gives you a good starting place for any new pages you'd like to build/customize.
 
-With all that said, although I won't be pushing this to production, I don't want it to go to waste! Please follow these next steps to get the project on your local computer:
+With all that said, although I won't be pushing this to production myself, I don't want it to go to waste! Please follow these next steps to get the project on your local computer:
 
 
 ### Step 1
@@ -17,7 +17,7 @@ Now, you'll want to clone or download the repo to your local machine. To get the
 
 Download is pretty self-explanatory. 
 
-To clone the repo, navigate to the folder you'd like to clone the repo on your local machine and type/copy the following command: 
+To clone the repo, navigate to the folder you'd like to clone the repo on your local machine and type/copy the following command into your terminal or cli: 
 
 ```html
 git clone REPO_URL
@@ -32,4 +32,4 @@ If you end up using this template to create a website and push it live, I'd love
 ## Happy Coding!
 
 
--Jeff
+Jeff
